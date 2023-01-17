@@ -3556,6 +3556,14 @@
       "oO" : 1,
       "oS" : 1
     },
+    "\/README.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0
+    },
     "\/README.md" : {
       "cB" : 0,
       "cS" : 0,
@@ -3619,6 +3627,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/site.webmanifest",
+      "oF" : 0
+    },
+    "\/static\/alan_moore_cv_2022_web.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/static\/alan_moore_cv_2022_web.pdf",
       "oF" : 0
     },
     "\/static\/fonts\/260ACA_0_0.eot" : {
@@ -4350,6 +4366,360 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.eot",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.ttf",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-bold-line-figures\/et-book-bold-line-figures.woff",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.eot",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.ttf",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-display-italic-old-style-figures\/et-book-display-italic-old-style-figures.woff",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.eot",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.ttf",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-line-figures\/et-book-roman-line-figures.woff",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.eot",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.ttf",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-roman-old-style-figures\/et-book-roman-old-style-figures.woff",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.eot",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.ttf",
+      "oF" : 0
+    },
+    "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/et-book\/et-book-semi-bold-old-style-figures\/et-book-semi-bold-old-style-figures.woff",
+      "oF" : 0
+    },
+    "\/tufte-css\/img\/exports-imports.png" : {
+      "ft" : 32768,
+      "iS" : 804996,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/img\/exports-imports.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/tufte-css\/img\/imagequilt-animal-sounds.png" : {
+      "ft" : 32768,
+      "iS" : 204461,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/img\/imagequilt-animal-sounds.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/tufte-css\/img\/imagequilt-chinese-calligraphy.png" : {
+      "ft" : 32768,
+      "iS" : 424264,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/img\/imagequilt-chinese-calligraphy.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/tufte-css\/img\/napoleons-march.png" : {
+      "ft" : 32768,
+      "iS" : 399321,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/img\/napoleons-march.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/tufte-css\/img\/rhino.png" : {
+      "ft" : 32768,
+      "iS" : 527896,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/img\/rhino.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/tufte-css\/img\/table-example-be-page-159.png" : {
+      "ft" : 32768,
+      "iS" : 102586,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/img\/table-example-be-page-159.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/tufte-css\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/index.html",
+      "oF" : 0
+    },
+    "\/tufte-css\/latex.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/latex-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/tufte-css\/LICENSE" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/LICENSE",
+      "oF" : 0
+    },
+    "\/tufte-css\/package.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/tufte-css\/package-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
+    "\/tufte-css\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/tufte-css\/tufte-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/tufte-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/tufte-css\/tufte.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/tufte-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/tufte-css\/tufte.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/tufte-css\/tufte.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/tufte-css\/tufte.scss" : {
+      "aP" : 1,
+      "bl" : 1,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 1,
+      "oA" : 1,
+      "oAP" : "\/tufte-css\/tufte.css",
+      "oF" : 0,
+      "oS" : 2,
+      "pg" : 0,
+      "sct" : 0
     }
   },
   "hooks" : [
