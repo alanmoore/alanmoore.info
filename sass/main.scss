@@ -37,9 +37,10 @@ figure {
 @media (max-width: 760px) {
   .sidenote, .marginnote {
     display: block;
-    float: left;
+    float: none;
     left: 1rem;
     clear: both;
+    padding-right: 5%;
     width: 95%;
     margin: 1rem 2.5%;
     vertical-align: baseline;
