@@ -10,18 +10,6 @@ body {
   font-family: Realtime;
 }
 
-//a {
-//  border-bottom: 1px solid darken($blue, 10);
-//  color: $blue;
-//  &:hover {
-//    border-bottom: 1px solid darken($blue, 10);
-//    color: $blue;
-//  }
-//  p & {
-//    color: darken($blue, 15);
-//  }
-//}
-
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   a:link, .tufte-underline, .hover-tufte-underline:hover {
     background-position-y: 95%, 95%, 95%;
@@ -43,6 +31,19 @@ figure {
       max-width: 62em;
       padding: 0 1em;
     }
+  }
+}
+
+@media (max-width: 760px) {
+  .sidenote, .marginnote {
+    display: block;
+    float: left;
+    left: 1rem;
+    clear: both;
+    width: 95%;
+    margin: 1rem 2.5%;
+    vertical-align: baseline;
+    position: relative;
   }
 }
 
